@@ -86,7 +86,7 @@ Encuestas sobre qué tarea automatizar, una pantalla del día y un repost del po
 | Fecha | Pieza | Pilar | Estado |
 |---|---|---|---|
 | Vie 13-nov | Carrusel Automatiza (5 tareas) | A | ✅ Publicado |
-| Vie 13-nov 7 pm | Carrusel Repuestos Motos | C | Programado |
+| Sáb 14-nov 7 pm | Carrusel Repuestos Motos | C | Programado |
 | Lun 16-nov 7 pm | Reel Encajas | C | Programado |
 | Mar 17-nov | Carrusel "7 señales de que tu negocio necesita un sistema" | A | Lo produce el paquete semanal |
 | Jue 19-nov | Reel Antes/Después Ópticas (cuaderno → panel) | B | Lo produce el paquete semanal |
