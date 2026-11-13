@@ -55,3 +55,44 @@ Regla: un reel muestra una sola función. Para un mismo demo, prueba ganchos dis
 4. CTA "Comenta PALABRA y te contamos…".
 5. "Síguenos para más…".
 6. 2–3 hashtags.
+
+## Plan v2 · Innovar y llegar a más gente (13-nov-2026)
+
+### Lo que hacen las cuentas de tecnología que crecen
+- **Canva:** el producto es el contenido. Publica tutoriales cortos donde la herramienta hace la tarea en pantalla.
+- **Asana:** carruseles en **series con nombre** que vuelven cada semana, cada uno sobre un dolor concreto.
+- **Grammarly:** humor sobre el **problema** y no sobre el software. La gente lo comparte porque se siente identificada.
+- **HubSpot y Mailchimp:** detrás de cámaras y una personalidad propia que la distingue de las demás marcas SaaS.
+- **Notion:** plantillas y recursos útiles que la gente guarda.
+
+### Lo que premia Instagram en 2026
+- **Envíos por DM:** son la señal más fuerte para llegar a no seguidores. Nuestro mejor post (Ópticas) fue también el más compartido.
+- **Tiempo de vista y repeticiones:** los reels deben durar menos de 30 s para gente nueva y tener el gancho antes de los 2 s.
+- **Carruseles:** generan unas 9 veces más guardados que una foto y admiten hasta 20 placas.
+- **Trial Reels:** se muestran solo a no seguidores. Sirven para probar 2 o 3 ganchos del mismo demo.
+- **Conversación:** responder los comentarios en menos de 24 h. Contenido original, sin marcas de agua.
+
+### Series fijas de @itconectados
+1. **"¿Se puede automatizar?"** El público propone una tarea y respondemos con la solución en un carrusel. Genera comunidad y comentarios.
+2. **"Antes / Después":** primero el cuaderno o el Excel caótico, luego el panel. Reel de 12–20 s.
+3. **"Señales de que…"** Carrusel con humor venezolano sobre el dolor: la tasa del día, el cuaderno de fiado, el "¿quién vendió esto?". Está hecho para que lo envíen al socio.
+4. **"POV" de 3 ganchos:** el mismo demo con tres ganchos distintos, publicado como Trial Reels.
+5. **Proyecto real:** cómo lo construimos, con GPar, Tío Jaime y Encajas (se puede hacer como post Collab con su cuenta).
+
+### Stories (diario)
+Encuestas sobre qué tarea automatizar, una pantalla del día y un repost del post nuevo. Las respuestas alimentan la serie "¿Se puede automatizar?".
+
+### Calendario (4 posts por semana)
+| Fecha | Pieza | Pilar | Estado |
+|---|---|---|---|
+| Vie 13-nov | Carrusel Automatiza (5 tareas) | A | ✅ Publicado |
+| Dom 15-nov | Reel Encajas | C | Listo |
+| Mar 17-nov | Carrusel "7 señales de que tu negocio necesita un sistema" | A | Por diseñar |
+| Jue 19-nov | Reel Antes/Después Ópticas (cuaderno → panel) | B | Por diseñar |
+| Sáb 21-nov | Carrusel Repuestos Motos | C | Listo |
+| Lun 23-nov | "¿Se puede automatizar?" Ep. 1 | A | Por diseñar |
+| Mié 25-nov | Reel POV cotización 11 pm (3 ganchos como Trial Reels) | A | Por diseñar |
+| Vie 27-nov | Reel Historia Clínica (relanzamiento con gancho más amplio) | B | Por diseñar |
+
+### Métricas que miramos cada semana
+Compartidos y guardados por post, alcance de no seguidores, seguidores nuevos y comentarios con palabra clave.
