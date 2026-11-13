@@ -86,13 +86,15 @@ Encuestas sobre qué tarea automatizar, una pantalla del día y un repost del po
 | Fecha | Pieza | Pilar | Estado |
 |---|---|---|---|
 | Vie 13-nov | Carrusel Automatiza (5 tareas) | A | ✅ Publicado |
-| Dom 15-nov | Reel Encajas | C | Listo |
-| Mar 17-nov | Carrusel "7 señales de que tu negocio necesita un sistema" | A | Por diseñar |
-| Jue 19-nov | Reel Antes/Después Ópticas (cuaderno → panel) | B | Por diseñar |
-| Sáb 21-nov | Carrusel Repuestos Motos | C | Listo |
-| Lun 23-nov | "¿Se puede automatizar?" Ep. 1 | A | Por diseñar |
-| Mié 25-nov | Reel POV cotización 11 pm (3 ganchos como Trial Reels) | A | Por diseñar |
-| Vie 27-nov | Reel Historia Clínica (relanzamiento con gancho más amplio) | B | Por diseñar |
+| Vie 13-nov 7 pm | Carrusel Repuestos Motos | C | Programado |
+| Lun 16-nov 7 pm | Reel Encajas | C | Programado |
+| Mar 17-nov | Carrusel "7 señales de que tu negocio necesita un sistema" | A | Lo produce el paquete semanal |
+| Jue 19-nov | Reel Antes/Después Ópticas (cuaderno → panel) | B | Lo produce el paquete semanal |
+| Sáb 21-nov | "¿Se puede automatizar?" Ep. 1 | A | Lo produce el paquete semanal |
+| Lun 23-nov | Reel POV cotización 11 pm (3 ganchos como Trial Reels) | A | Semana siguiente |
+| Mié 25-nov | Reel Historia Clínica (relanzamiento con gancho más amplio) | B | Semana siguiente |
+
+**Instrucción para el paquete semanal:** antes de diseñar, lee esta sección "Plan v2", produce las piezas de la tabla que falten, usa las series fijas y marca cada pieza como publicada aquí.
 
 ### Métricas que miramos cada semana
 Compartidos y guardados por post, alcance de no seguidores, seguidores nuevos y comentarios con palabra clave.
