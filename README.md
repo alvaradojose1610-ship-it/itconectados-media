@@ -86,13 +86,18 @@ Encuestas sobre qué tarea automatizar, una pantalla del día y un repost del po
 | Fecha | Pieza | Pilar | Estado |
 |---|---|---|---|
 | Vie 13-nov | Carrusel Automatiza (5 tareas) | A | ✅ Publicado |
-| Sáb 14-nov 7 pm | Carrusel Repuestos Motos | C | Programado |
-| Lun 16-nov 7 pm | Reel Encajas | C | Programado |
-| Mar 17-nov | Carrusel "7 señales de que tu negocio necesita un sistema" | A | Lo produce el paquete semanal |
-| Jue 19-nov | Reel Antes/Después Ópticas (cuaderno → panel) | B | Lo produce el paquete semanal |
+| Sáb 14-nov | Carrusel Repuestos Motos | C | ✅ Publicado |
+| Lun 16-nov | Reel Encajas + Reel POV tasa BCV | C / A | ✅ Publicados (⚠️ dos el mismo día) |
+| Mar 17-nov | Reel POV óptica fórmula | B | ✅ Publicado |
+| Mié 18-nov | Reel Ópticas "un día con el sistema" | B | ✅ Publicado (⚠️ Ópticas dos días seguidos) |
+| Vie 20-nov | Imagen "Cuello de botella" | A | Programado |
 | Sáb 21-nov | "¿Se puede automatizar?" Ep. 1 | A | Lo produce el paquete semanal |
-| Lun 23-nov | Reel POV cotización 11 pm (3 ganchos como Trial Reels) | A | Semana siguiente |
-| Mié 25-nov | Reel Historia Clínica (relanzamiento con gancho más amplio) | B | Semana siguiente |
+| Lun 23-nov | Reel POV cotización 11 pm (3 ganchos como Trial Reels) | A | Lo produce el paquete semanal |
+| Mié 25-nov | Reel Historia Clínica (relanzamiento con gancho más amplio) | B | Lo produce el paquete semanal |
+
+Pendientes que ya no van: "7 señales…" y "Antes/Después Ópticas" se mueven a diciembre (Ópticas ya tuvo 2 reels esta semana).
+
+**Anti-repetición:** antes de producir o publicar, lee `publicaciones.md` (registro y reglas) y el último informe en `referentes/`. Agrega cada publicación al registro.
 
 **Instrucción para el paquete semanal:** antes de diseñar, lee esta sección "Plan v2", produce las piezas de la tabla que falten, usa las series fijas y marca cada pieza como publicada aquí.
 
