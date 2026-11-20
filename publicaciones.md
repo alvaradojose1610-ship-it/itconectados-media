@@ -24,6 +24,11 @@
 | 17-nov | Reel | POV óptica: fórmula en cuaderno | pov/reel_pov_optica_formula.mp4 | (etiquetar) | https://www.instagram.com/reel/Df3ApyOgmW7/ |
 | 18-nov | Reel | Ópticas: un día con el sistema | reel1_opticas_dia_con_el_sistema.mp4 | DEMO | https://www.instagram.com/reel/Df5sh3Sjrq5/ |
 
+## Historias
+| Fecha | Promociona / tema | Archivo | Media id |
+|---|---|---|---|
+| 20-nov | Reel 18-nov Ópticas ("¿Te pasa esto?", CTA DEMO) | historias/2026-11-20.jpg | 18037166171851622 |
+
 ## Programado
 | Fecha | Tipo | Tema / pieza | Archivo(s) | CTA |
 |---|---|---|---|---|
