@@ -23,16 +23,17 @@
 | 16-nov | Reel | Web Encajas | encajas/ | WEB | https://www.instagram.com/reel/Df0fNValR9W/ |
 | 17-nov | Reel | POV óptica: fórmula en cuaderno | pov/reel_pov_optica_formula.mp4 | (etiquetar) | https://www.instagram.com/reel/Df3ApyOgmW7/ |
 | 18-nov | Reel | Ópticas: un día con el sistema | reel1_opticas_dia_con_el_sistema.mp4 | DEMO | https://www.instagram.com/reel/Df5sh3Sjrq5/ |
+| 20-nov | Imagen | Cuello de botella ("jefe, ¿y esto?") | post_imagen_cuello_de_botella.jpg | SISTEMA | https://www.instagram.com/p/Df-10z3jHcH/ |
 
 ## Historias
 | Fecha | Promociona / tema | Archivo | Media id |
 |---|---|---|---|
 | 20-nov | Reel 18-nov Ópticas ("¿Te pasa esto?", CTA DEMO) | historias/2026-11-20.jpg | 18037166171851622 |
+| 23-nov | Post 20-nov cuello de botella ("¿Te pasa esto?", CTA SISTEMA) | historias/2026-11-23.jpg | 17949893169364704 |
 
 ## Programado
 | Fecha | Tipo | Tema / pieza | Archivo(s) | CTA |
 |---|---|---|---|---|
-| 20-nov 7:30 pm | Imagen | Cuello de botella ("jefe, ¿y esto?") | post_imagen_cuello_de_botella.jpg | SISTEMA |
 
 ## Temas ya usados (no repetir antes de 14 días)
 tasa BCV / precios en Bs (11, 13 y 16-nov) · cuaderno de fórmulas en óptica (5, 17 y 18-nov) · inventario con QR (5, 14 y 18-nov) · cotizaciones online (10 y 16-nov)
