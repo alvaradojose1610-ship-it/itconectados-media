@@ -32,6 +32,7 @@
 | 23-nov | Post 20-nov cuello de botella ("¿Te pasa esto?", CTA SISTEMA) | historias/2026-11-23.jpg | 17949893169364704 |
 | 24-nov | Encuesta en texto: horas a la semana copiando datos a mano (A-D, respuesta por DM) | historias/2026-11-24.jpg | 17920426020523170 |
 | 25-nov | Ópticas (ejemplo): "¿Quién te debe y cuánto?" ficha de paciente con saldo pendiente, CTA ÓPTICA por DM | historias/2026-11-25.jpg | 18056574380816850 |
+| 26-nov | Dato útil: si respondes lo mismo 3 veces al día, puede ser automático (pedido, horario, factura), CTA por DM | historias/2026-11-26.jpg | 17957536572276273 |
 
 ## Programado
 | Fecha | Tipo | Tema / pieza | Archivo(s) | CTA |
